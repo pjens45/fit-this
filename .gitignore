@@ -1,0 +1,13 @@
+# Credentials — never commit
+.env
+
+# Personal data and cron logs
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor/backup leftovers
+*.bak
+scripts.backup-*/
